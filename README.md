@@ -1,0 +1,1 @@
+Ez egy gyakorló projekt Git használatához.
